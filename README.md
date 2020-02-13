@@ -6,16 +6,19 @@ access too it. I will also be using jenkins to automatically push the code to So
 First you will need to create a MySqlInstance in google cloud platform. Next you will need to pull the code to your eclipse using Git Bash. 
 To then use the program you will need to change the ip address within the code to your own database and then run as normal.
 ### Prerequisites
-Eclipse
-Java
-Maven
-GitBash
-MySql
-GoogleCloudPlatform
+Eclipse:https://www3.ntu.edu.sg/home/ehchua/programming/howto/EclipseJava_HowTo.html
 
-```
-Give examples
-```
+Java:https://www3.ntu.edu.sg/home/ehchua/programming/howto/JDK_Howto.html
+
+Maven:https://howtodoinjava.com/maven/how-to-install-maven-on-windows/
+
+GitBash:https://www.atlassian.com/git/tutorials/install-git
+
+MySql:https://dev.mysql.com/doc/mysql-installation-excerpt/8.0/en/windows-install-archive.html
+
+GoogleCloudPlatform: https://cloud.google.com/sql/docs/mysql/quickstart
+
+
 ### Installing
 First: set up the google cloud instance of MySql
 
@@ -39,9 +42,6 @@ To run tests within the program you will need to go to the test classes and run 
 it is all set up correctly by inputting null data and getting example results out.
 ### Unit Tests
 
-```
-Give an example
-```
 
 
 
